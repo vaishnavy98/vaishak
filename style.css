@@ -1,0 +1,28 @@
+body{
+    background: #ffc0cb;
+}
+#kj{
+    height: 10cm;
+    width: 10cm;
+}
+#Keyl{
+    height: 10m;
+    width: 10cm;
+    position: relative;
+}
+p{
+    font-size: 1.7em;
+    color: white;
+}
+pre{
+    
+    font-size: 1.7em;
+    color: white;
+}
+h1{
+    font-size: 3em;
+  color:#ff6781;
+  justify-content: center;
+  font-style: italic;
+  text-align: center;
+}
